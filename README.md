@@ -10,27 +10,27 @@ Right now, I'm developing my foundation in programming and building small projec
 ---
 
 ## 🚀 **What I'm currently doing**
-- 🔭 **I’m currently working on:**  
-  Learning paths, small Python projects, and simple AI experiments.
+🔭 **I’m currently working on:**  
+Learning paths, small Python projects, and simple AI experiments.
 
-- 🌱 **I’m currently learning:**  
-  Python, logic, data fundamentals, and the basics of AI.
+🌱 **I’m currently learning:**  
+Python, logic, data fundamentals, and the basics of AI.
 
-- 👯 **I’m looking to collaborate on:**  
-  Beginner-friendly AI projects, automation scripts, and open-source practice.
+👯 **I’m looking to collaborate on:**  
+Beginner-friendly AI projects, automation scripts, and open-source practice.
 
-- 🤔 **I’m looking for help with:**  
-  Improving my portfolio and building my first AI-related projects.
+🤔 **I’m looking for help with:**  
+Improving my portfolio and building my first AI-related projects.
 
-- 💬 **Ask me about:**  
-  Tech, productivity, beginner programming, and AI tools.
+💬 **Ask me about:**  
+Tech, productivity, beginner programming, and AI tools.
 
-- 📫 **How to reach me:**  
-  ✉️ *diogomelo.mm@gmail.com*  
-  🔗 *www.linkedin.com/in/diogo-melo-mondejar*  
+📫 **How to reach me:**  
+✉️ *diogomelo.mm@gmail.com*  
+🔗 *www.linkedin.com/in/diogo-melo-mondejar*  
 
-- ⚡ **Fun fact:**  
-  I love automating boring tasks and learning something new every single day.
+⚡ **Fun fact:**  
+I love automating boring tasks and learning something new every single day.
 
 ---
 
