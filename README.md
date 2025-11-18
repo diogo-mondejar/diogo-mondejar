@@ -1,6 +1,7 @@
 # Hi there! I'm **Diogo Mondejar**
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+GitHub!;Tech+Enthusiast+%7C+Future+AI+Developer;Always+Learning+and+Building+🚀)](https://git.io/typing-svg)
+
 I’m passionate about technology and currently exploring **Python, AI, automations, and problem-solving**.  
 Right now, I'm developing my foundation in programming and building small projects to grow my skills.
 ---
