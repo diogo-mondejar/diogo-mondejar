@@ -27,7 +27,7 @@ Right now, I'm developing my foundation in programming and building small projec
 
 - 📫 **How to reach me:**  
   ✉️ *diogomelo.mm@gmail.com*  
-  🔗 *www.linkedin.com/in/diogo-melo-mondejar e*  
+  🔗 *www.linkedin.com/in/diogo-melo-mondejar*  
 
 - ⚡ **Fun fact:**  
   I love automating boring tasks and learning something new every single day.
