@@ -26,8 +26,8 @@ Right now, I'm developing my foundation in programming and building small projec
   Tech, productivity, beginner programming, and AI tools.
 
 - 📫 **How to reach me:**  
-  ✉️ *email@example.com*  
-  🔗 *linkedin.com/in/example*  
+  ✉️ *diogomelo.mm@gmail.com*  
+  🔗 *www.linkedin.com/in/diogo-melo-mondejar e*  
 
 - ⚡ **Fun fact:**  
   I love automating boring tasks and learning something new every single day.
